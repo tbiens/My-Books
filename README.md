@@ -8,3 +8,4 @@ This first series is at that age 8-12 reading range. It is Star Wars fan fiction
 
 
 
+![Padawans of Light, the dino trials.](https://github.com/tbiens/My-Books/blob/main/book2cover.png?raw=true)
