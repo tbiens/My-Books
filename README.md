@@ -1,6 +1,6 @@
 # My-Books
 
-This first series is for the age 8-12 reading range. It is Star Wars fan fiction, but very softly. 
+This first series is for the age 8-12 reading padawans. My daughter is loving dinosaurs and now I'm reading this series to her, 1 chapter per day. 
 
 
 
