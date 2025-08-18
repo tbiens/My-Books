@@ -15,7 +15,7 @@ Alongside his friend Lila, Kai learns that the most powerful magic isn't about c
 
 
 ![Padawans of Light, the dino trials.](https://github.com/tbiens/My-Books/blob/main/book2cover.png?raw=true)
-[Padawans of Life, the dino trials.](https://github.com/tbiens/My-Books/raw/refs/heads/main/padawans_of_light.epub)
+[Padawans of Life, the dino trials EPUB](https://github.com/tbiens/My-Books/raw/refs/heads/main/padawans_of_light.epub)
 
 
 This is a heartwarming coming-of-age story about Kai, a young Padawan at an academy who struggles with leadership while accompanied by his lovable, gassy raptor companion Dino David. The story follows Kai as he tries to welcome new recruits (Ben, Lila, and Liam) while dealing with Jaxon, a withdrawn student who initially rejects their group's philosophy of peace and "starfruit diplomacy."
