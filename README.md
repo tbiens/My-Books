@@ -1,4 +1,4 @@
-# KAI's adventures Star Wars Fan fiction.
+# KAI's Adventures - Star Wars Fan Fiction.
 
 This first series is for the age 8-12 reading padawans. My daughter is loving dinosaurs and now I'm reading this series to her, 1 chapter per day. 
 
