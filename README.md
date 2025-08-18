@@ -1,6 +1,6 @@
 # KAI's Adventures - Star Wars Fan Fiction.
 
-This first series is for the age 8-12 reading padawans. My daughter is loving dinosaurs and now I'm reading this series to her, 1 chapter per day. According to my kobo, about 2 hours to read the first book, about 7 minutes a chapter. 
+This first series is for the age 8-12 reading padawans. My daughter is loving dinosaurs and now I'm reading this series to her, 1 chapter per day. According to my kobo, about 2 hours to read the first book, 7 minutes a chapter. 
 
 
 
