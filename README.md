@@ -15,7 +15,7 @@ Alongside his friend Lila, Kai learns that the most powerful magic isn't about c
 
 
 ![Padawans of Light, the dino trials.](https://github.com/tbiens/My-Books/blob/main/book2cover.png?raw=true)
-[Padawans of Life, the dino trials EPUB](https://github.com/tbiens/My-Books/raw/refs/heads/main/padawans_of_light.epub)
+[Padawans of Life, the dino trials EPUB](https://github.com/tbiens/kai_book_series/raw/refs/heads/main/Padawans_of_Light.epub)
 
 
 This is a young adult fantasy story about Kai, a student at a peaceful academy learning "The Flow" - a philosophy emphasizing harmony and non-violence. Along with his friends Lila (perfectionist), Ben (clumsy but enthusiastic), Liam (quiet and observant), and their pet raptor Dino David, Kai tries to help his troubled friend Jaxon, who struggles with feeling invisible and ignored. As the group takes on peacekeeping missions in nearby villages, Jaxon becomes increasingly frustrated with their gentle methods, believing that force and dominance are more effective than patience and understanding. He eventually betrays them by sabotaging their shelter and allying with bandits, but the story concludes with a confrontation where Jaxon realizes he's been building walls instead of bridges and begins to rejoin the group.
