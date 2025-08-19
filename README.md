@@ -22,3 +22,14 @@ This is a young adult fantasy story about Kai, a student at a peaceful academy l
 
 
 ![Kai and the Hidden City](https://github.com/tbiens/My-Books/blob/main/book3cover.png?raw=true)
+
+[Kai and the Hidden City EPUB](https://github.com/tbiens/kai_book_series/raw/refs/heads/main/Kai_and_the_Hidden_City.epub)
+
+
+Kai and their friends—Lila, Ben, Jaxon, and Liam—are guided through a mysterious city where ancient symbols hint at a prophecy about the chosen one. But as they walk its paths, weave moss spirals into each other’s hair, and share bread stamped with "Shared Roots," they slowly realize: the Hidden City isn’t built to fight darkness. It’s woven from connection itself.
+
+The true revelation? The Rising Darkness wasn’t an enemy—it was absence; the space where people forgot how to hold hands without fear. The prophecy never demanded a hero. It simply asked them to remember what they’d already been doing all along: sharing berries, catching friends who stumble, and sitting quietly beside each other like Dino David did on sun-warmed rocks.
+As they step through the Sealed Gates not as seekers but as returnees, they understand:
+
+"You weren’t meant to be chosen. You were always home."
+The city hums with their rhythm now—not because of grand deeds, but because they finally stopped searching and began being.
