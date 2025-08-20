@@ -4,13 +4,11 @@ This first series is for the age 8-12 reading padawans. My daughter is loving di
 
 
 
-![Kai's Adventure](https://github.com/tbiens/My-Books/blob/main/book1cover.png?raw=true)
+![Kai and the Hidden Valley](https://github.com/tbiens/My-Books/blob/main/book1cover.png?raw=true)
 
-[Kai's Adventure EPUB](https://github.com/tbiens/My-Books/raw/refs/heads/main/kai_adventures.epub)
+[Kai and the Hidden Valley EPUB](https://github.com/tbiens/My-Books/raw/refs/heads/main/Kai_and_the_hidden_valley.epub)
 
-The Valley of Gentle Giants follows young Kai, a student at a training academy who discovers a hidden valley filled with peaceful dinosaurs beyond the stone walls of his practice grounds. What begins as curiosity about a bluebird's flight path becomes a profound journey of self-discovery. In this secret sanctuary, Kai encounters gentle Brachiosaurus families, playful Pterodactyl hatchlings, and learns that true strength isn't found in force or loud action, but in quiet presence and patient observation.
-When poachers threaten the valley, Kai must choose between old habits of rushing to fix problems and the deeper wisdom he's learned from watching the valley's inhabitants. Through encounters with struggling hatchlings, a mysterious egg, and ultimately the poachers themselves, Kai discovers that sometimes the greatest help is simply being present, and that kindness grows not through grand gestures but through small moments of understanding and stillness.
-Alongside his friend Lila, Kai learns that the most powerful magic isn't about conquering or collecting, but about belonging and creating space for others to be themselves and finding wonder in the quiet rhythms of life itself.
+"Kai and the Hidden Valley" follows Kai, a young Jedi-in-training who discovers a sanctuary filled with gentle dinosaurs. Rather than focusing on traditional Force powers through control or action, the story emphasizes mindfulness, observation, and connection as the true path to understanding the Force. Kai's journey moves from eagerness to act immediately ("fixing" what he perceives as broken) toward patience and respect for nature by observing before acting.
 
 
 
